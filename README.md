@@ -1,4 +1,10 @@
-## Available Scripts
+
+## Installation
+
+Download node at nodejs.org and install it, if you haven't already.\
+Run `npm i` in the root of the repository.
+
+## Usage - Available Scripts
 
 ### `npm start`
 
@@ -14,4 +20,4 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The app is ready to be deployed!
